@@ -5,9 +5,7 @@
 ArangoDB是一个多模型的开源数据库，具有用于文档，图形和键值的灵活数据模型。使用方便的类似SQL的查询语言或JavaScript扩展来构建高性能应用程序。如果需要，请使用ACID交易。水平和垂直缩放，只需点击几下鼠标。支持的数据模型可以在查询中进行混合，并允许ArangoDB成为数据请求的聚合点。
 
 所属类别是数据库
-## 软件官网
 
-https://www.arangodb.com/
 特点:
 
 1.多功能
@@ -15,6 +13,10 @@ https://www.arangodb.com/
 2.提供 Graph 储存方式
 
 3.可扩展的 AQL 语言
+## 软件官网
+
+https://www.arangodb.com/
+
 ## Dockerfile 使用方法
 
 ### 如何使用
